@@ -1,0 +1,96 @@
+
+/* Style the tab buttons */
+.tablink{
+	background color: white;
+	color: grey;
+	float: right;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	padding: 14px 16px;
+	font-size: 17px;
+	width: 10%;
+	font-family: Georgia;
+}
+
+#Connect {
+	float: left;
+	padding: 20px;
+	background-color: white;
+	margin-left: 30px;
+}
+
+h1 {
+	background-color: #4aaaa5;
+	color: white;
+	width: 12%;
+	padding: 20px;
+	margin-left: 75px;
+	margin-bottom: 125px;
+	font-family: Georgia;
+}
+
+h2 {
+	color: white;
+	background-color: #4aaaa5;
+	width: 8%;
+	height: 100%;
+	margin-left: 75px;
+	margin-bottom: 25px;
+	font-family: Georgia;
+	text-align: center;
+}
+
+#picture {
+	float: left;
+	margin-left: 75px;
+	margin-top: 50px;
+	transform: rotate(-90deg) ;
+}
+
+#P {
+	width: 35%;
+	float: left;
+	padding: 40px;
+	background-color: grey;
+	color: white;
+	margin-bottom: 160px;
+	line-height: 2;
+	font-family: Arial;
+}
+
+h3{
+	color: grey;
+	font-family: Georgia;
+	margin-left: 20px;
+}
+
+#Contact {
+	margin-left: 75px;
+	margin-top: 5px;
+	background-color: white;
+	width: 600px;
+	height: 600px;
+	float: left;
+	margin-bottom: 50px;
+}
+
+body {
+	background-color: teal;
+}
+
+textarea {
+	width: 500px;
+	height: 115px;
+	margin-left: 20px;
+}
+
+footer {
+	clear: both;
+	text-align: center;
+	padding: 50px;
+	background-color: grey;
+	margin-top: 50px;
+	border-top: 10px solid white;
+
+}
